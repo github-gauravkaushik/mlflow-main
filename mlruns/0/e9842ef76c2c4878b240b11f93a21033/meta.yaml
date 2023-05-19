@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/mlflow-main/mlruns/0/e9842ef76c2c4878b240b11f93a21033/artifacts
+end_time: 1684489556274
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e9842ef76c2c4878b240b11f93a21033
+run_name: skillful-ox-889
+run_uuid: e9842ef76c2c4878b240b11f93a21033
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684489531912
+status: 3
+tags: []
+user_id: test

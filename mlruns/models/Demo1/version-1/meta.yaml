@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1684490136553
+current_stage: Archived
+description: ''
+last_updated_timestamp: 1684490460522
+name: Demo1
+run_id: 2608f305371a44adb026beb5e79617fa
+run_link: ''
+source: file:///C:/MLOps/mlflow-main/mlruns/0/2608f305371a44adb026beb5e79617fa/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 1

@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1684490389153
+current_stage: Production
+description: ''
+last_updated_timestamp: 1684490420841
+name: Final_1
+run_id: 52c1ddaac7a24bff96919f1e79153263
+run_link: ''
+source: file:///C:/MLOps/mlflow-main/mlruns/0/52c1ddaac7a24bff96919f1e79153263/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 1

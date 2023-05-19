@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/mlflow-main/mlruns/0/d5264a1b36ca419bb21341b69d8564ab/artifacts
+end_time: 1684489650217
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5264a1b36ca419bb21341b69d8564ab
+run_name: traveling-ape-444
+run_uuid: d5264a1b36ca419bb21341b69d8564ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684489624286
+status: 3
+tags: []
+user_id: test

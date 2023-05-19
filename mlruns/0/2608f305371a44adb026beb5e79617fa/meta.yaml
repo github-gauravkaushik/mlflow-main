@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/mlflow-main/mlruns/0/2608f305371a44adb026beb5e79617fa/artifacts
+end_time: 1684489513617
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2608f305371a44adb026beb5e79617fa
+run_name: bright-skink-282
+run_uuid: 2608f305371a44adb026beb5e79617fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684489492755
+status: 3
+tags: []
+user_id: test
